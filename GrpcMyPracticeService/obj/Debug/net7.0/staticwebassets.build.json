@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "BWsJDCL48NdNUgRX4WOyztaN2sGn7pYTzm2IaqVIpSI=",
+  "Source": "GrpcMyPracticeService",
+  "BasePath": "_content/GrpcMyPracticeService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

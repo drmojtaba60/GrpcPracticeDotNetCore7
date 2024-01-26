@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "frB16m2EgolQcJcE9veEIGQmG4MpVpGLEsPZoUT05KocERPNvTECDOPrbCzo5DlmkU9mm2h8tLcx9jpx5EvFuw==",
+  "success": true,
+  "projectFilePath": "D:\\developing\\Asp.netCore\\MyPractice\\Grpc\\GrpcMyPractice\\GrpcMyPracticeClientConsole\\GrpcMyPracticeClientConsole.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Webhouse\\.nuget\\packages\\google.protobuf\\3.25.2\\google.protobuf.3.25.2.nupkg.sha512",
+    "C:\\Users\\Webhouse\\.nuget\\packages\\grpc.core.api\\2.60.0\\grpc.core.api.2.60.0.nupkg.sha512",
+    "C:\\Users\\Webhouse\\.nuget\\packages\\grpc.net.client\\2.60.0\\grpc.net.client.2.60.0.nupkg.sha512",
+    "C:\\Users\\Webhouse\\.nuget\\packages\\grpc.net.common\\2.60.0\\grpc.net.common.2.60.0.nupkg.sha512",
+    "C:\\Users\\Webhouse\\.nuget\\packages\\grpc.tools\\2.60.0\\grpc.tools.2.60.0.nupkg.sha512",
+    "C:\\Users\\Webhouse\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
